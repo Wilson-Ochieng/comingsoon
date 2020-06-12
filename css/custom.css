@@ -46,7 +46,7 @@ img{
 
 .input-group-addon{
     border-radius: 0px;
-    background-color: rgba(31, 58, 66, 0.83);
+    background-color: rgba(30, 130, 76, 1);
     color: #fff;
     padding: 0px 20px;
 }
@@ -136,7 +136,7 @@ p{
 }
 
 .header-wrapper{
-    background-color: rgba(0, 0, 0, 0.62);
+    background-color: rgba(31, 130, 76, 1);
 }
 
 /* ===============================  1.1  Logo  ====================================== */
@@ -151,7 +151,7 @@ a.title {
     color: #fff;
     padding: 14px;
     font-family: 'Oswald',sans-serif;
-    background-color: rgba(31, 58, 66, 0.7);
+    background-color:  rgba(31, 130, 76, 1);
     text-shadow: -3px 5px #000;
     font-weight: lighter;
 }
@@ -264,7 +264,7 @@ p.spam {
 }
 
 .social-media-wrapper{
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(30, 130, 76, 1);
     padding: 58px 0px;
 }
 
@@ -286,7 +286,7 @@ p.spam {
     font-size: 25px;
     width: 50px;
     height: 50px;
-    background-color: rgba(31, 58, 66, 0.7);
+    background-color: rgba(77, 19, 209, 1);
     color: #fff;
     border-radius: 50%;
     border: 3px double #fff;
@@ -298,7 +298,7 @@ p.spam {
 ================================================ */
 
 .footer{
-    background-color: rgba(0,0,0,0.89);
+    background-color: rgb(32,28,79);
 }
 
 .footer-wrapper{
@@ -313,5 +313,5 @@ p.spam {
     color: #fff;
 }
 .develop a {
-    color: cadetblue;
+    color: #fff;
 }
