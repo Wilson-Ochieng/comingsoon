@@ -3,19 +3,19 @@
 Count down until any date script-
 By JavaScript Kit (www.javascriptkit.com)
 Over 200+ free scripts here!
-Modified by Robert M. Kuhnhenn, D.O. 
-on 5/30/2006 to count down to a specific date AND time,
-on 10/20/2007 to a new format, and 1/10/2010 to include
+Modified by Wilson Ochieng, D.O. 
+on 06/13/2020 to count down to a specific date AND time,
+on 06/13/2020 to a new format, and 06/13/2020 to include
 time zone offset.
 */
 
-var current="Winter is here!";   //-->enter what you want the script to display when the target date and time are reached, limit to 20 characters
-var year=2019;    //-->Enter the count down target date YEAR
-var month=1;      //-->Enter the count down target date MONTH
-var day=1;       //-->Enter the count down target date DAY
-var hour=12;      //-->Enter the count down target date HOUR (24 hour clock)
+var current="";   //-->enter what you want the script to display when the target date and time are reached, limit to 20 characters
+var year=2020;    //-->Enter the count down target date YEAR
+var month=7;      //-->Enter the count down target date MONTH
+var day=7;       //-->Enter the count down target date DAY
+var hour=6;      //-->Enter the count down target date HOUR (24 hour clock)
 var minute=00;    //-->Enter the count down target date MINUTE
-var tz=-5;        //-->Offset for your timezone in hours from UTC (see http://wwp.greenwichmeantime.com/index.htm to find the timezone offset for your location)
+var tz=-10;        //-->Offset for your timezone in hours from UTC (see http://wwp.greenwichmeantime.com/index.htm to find the timezone offset for your location)
 
 var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec");
 
